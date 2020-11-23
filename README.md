@@ -7,7 +7,7 @@
 
 
 
-* In this project, I created  a Python script for analyzing the financial records of of a hypothetical company. 
+* In this project, I created  a Python script for analyzing the financial records of a hypothetical company. 
 The Python script analyzed the records to calculate each of the following:
 
   * The total number of months included in the dataset
