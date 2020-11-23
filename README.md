@@ -41,6 +41,6 @@ I created a Python script that analyzed the votes and calculates each of the fol
 
   ```
 
-The  final script also printed the analysis to the terminal and export a text file with the results.
+The  final script also printed the analysis to the terminal and exports a text file with the results.
 
 
