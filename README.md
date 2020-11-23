@@ -20,7 +20,7 @@ The Python script analyzed the records to calculate each of the following:
 
   * The greatest decrease in losses (date and amount) over the entire period
 
-The  final script also printed the analysis to the terminal and export a text file with the results.
+The  final script also printed the analysis to the terminal and exports a text file with the results.
  
 
 ## PyPoll
